@@ -5,7 +5,7 @@ It’s my first step in deploying websites, and I’ll keep improving it as I gr
 
 ---
 
-## 📖 Steps to Deploy
+##  Steps to Deploy
 1. Clone this repo or create a new one on GitHub.
 2. Add your HTML/CSS files (`index.html` is required).
 3. Commit and push your code:
