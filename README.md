@@ -1,4 +1,4 @@
-# 🚀 My Static Website with GitHub Pages
+#  My Static Website with GitHub Pages
 
 This project is a simple **static website** hosted using **GitHub Pages**.  
 It’s my first step in deploying websites, and I’ll keep improving it as I grow in **DevOps**.  
