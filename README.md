@@ -10,6 +10,9 @@ It’s my first step in deploying websites, and I’ll keep improving it as I gr
 2. Add your HTML/CSS files (`index.html` is required).
 3. Commit and push your code:
    ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/yash07-code/my-static-website.git
+git push -u origin main
