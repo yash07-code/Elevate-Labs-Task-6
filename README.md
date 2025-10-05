@@ -10,7 +10,7 @@ It’s my first step in deploying websites, and I’ll keep improving it as I gr
 2. Add your HTML/CSS files (`index.html` is required).
 3. Commit and push your code:
    ```bash
-### 1️⃣ Initialize Git and Push Code
+### Initialize Git and Push Code
 Run the following commands in your project folder:
 ```bash
 git init
